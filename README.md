@@ -1,5 +1,6 @@
-# 💫 About Me:
-I'm currently a sophomore at VIT Vellore studying Data Science
+# Wassup: <br>
+
+I'm currently a sophomore at VIT Vellore studying Data Science<br>
 Currently I'm improving my Backend and systems skills and learning about ML and AI systems
 
 
